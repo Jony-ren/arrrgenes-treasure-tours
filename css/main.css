@@ -138,6 +138,11 @@ body {
   text-decoration: none;
 }
 
+.card a:hover {
+  color: white;
+  background-color: #522806;
+}
+
 .footer {
   background-color: #522806;
   border-top: .3rem solid #bea59b;
